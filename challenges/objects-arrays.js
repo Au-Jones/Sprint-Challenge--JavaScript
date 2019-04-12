@@ -14,7 +14,7 @@
       'length': '12m',
       'period': 'Late Cretaceious',
       'roar': function () {
-        return 'rawr'
+        return 'rawr!'
       }
     }
 
