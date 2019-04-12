@@ -1,6 +1,6 @@
 // 1. Copy and paste your prototype in here and refactor into class syntax.
 
- class CuboidMaker {
+ class cuboidMaker {
    constructor(options){
     this.width = options.width;
     this.height = options.height;
@@ -17,7 +17,7 @@ surfaceArea(){
  };
 };
 
-const cuboid = new CuboidMaker({
+const Cuboid = new cuboidMaker({
   width:5,
   height:5,
   length:4,
